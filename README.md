@@ -4,6 +4,8 @@ Covered Key Concept:
  3. Data Passing
  4. Displaying Array data by using *ngFor
  5. SetInterval() and ClearInterval()
+ 
+ 
  Layout:
 ![image](https://user-images.githubusercontent.com/15225177/190085241-bf56a15e-eeb1-42e6-a443-5752d56f3f30.png)
 
