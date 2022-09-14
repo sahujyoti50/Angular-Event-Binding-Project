@@ -5,12 +5,9 @@ Covered Key Concept:
  4. Displaying Array data by using *ngFor
  5. SetInterval() and ClearInterval()
  
-Layout:
-
-![image](https://user-images.githubusercontent.com/15225177/190084480-97d95da9-bf87-4c0c-a3a6-68737be59986.png
+Layout:![image](https://user-images.githubusercontent.com/15225177/190085241-bf56a15e-eeb1-42e6-a443-5752d56f3f30.png)
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # AngularRevision
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
