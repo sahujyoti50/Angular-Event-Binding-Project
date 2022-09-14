@@ -1,3 +1,14 @@
+Covered Key Concept:
+ 1. Event Binding
+ 2. Property Binding
+ 3. Data Passing
+ 4. Displaying Array data by using *ngFor
+ 5. SetInterval() and ClearInterval()
+ 
+Layout:
+![image](https://user-images.githubusercontent.com/15225177/190084480-97d95da9-bf87-4c0c-a3a6-68737be59986.png
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # AngularRevision
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
