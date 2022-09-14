@@ -6,7 +6,9 @@ Covered Key Concept:
  5. SetInterval() and ClearInterval()
  
 Layout:
+
 ![image](https://user-images.githubusercontent.com/15225177/190084480-97d95da9-bf87-4c0c-a3a6-68737be59986.png
+
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # AngularRevision
